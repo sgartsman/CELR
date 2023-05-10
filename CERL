@@ -1,0 +1,2 @@
+cd code
+sudo python3 GUI.py
